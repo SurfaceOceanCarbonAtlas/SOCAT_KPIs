@@ -214,6 +214,3 @@ socat_qgis.gpkg
 sk.sh
 expocodes.txt
 
-# Shape files
-# The folder 'shapes' is excluded from this repository, because I'm not sure what the licences are yet.
-shapes/*
