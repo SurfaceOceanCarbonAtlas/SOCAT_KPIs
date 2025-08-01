@@ -214,3 +214,6 @@ socat_qgis.gpkg
 sk.sh
 expocodes.txt
 
+# Databases
+*sqlite
+*sqlite-journal
