@@ -12,6 +12,7 @@ ipywidgets = "*"
 shapely = "*"
 geopandas = "*"
 matplotlib = "*"
+spatialite = "*"
 
 [dev-packages]
 
