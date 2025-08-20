@@ -217,3 +217,9 @@ expocodes.txt
 # Databases
 *sqlite
 *sqlite-journal
+
+# QGIS
+*.qgz
+
+# Shapes we don't want archived
+shapes/MARCAT
