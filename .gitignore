@@ -208,7 +208,7 @@ marimo/_lsp/
 __marimo__/
 
 # SOCAT
-SOCATv*.tsv
+SOCATv*
 SOCAT.qgz
 socat_qgis.gpkg
 sk.sh
